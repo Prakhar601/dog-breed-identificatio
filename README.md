@@ -4,14 +4,16 @@ Overview:
 This project is a deep learning model that identifies dog breeds from images. I built it using TensorFlow/Keras in a Jupyter Notebook. It’s mainly a Kaggle-style notebook project, focusing on training a CNN on a dataset of dog images and testing its predictions.
 
 Project Structure:
+
 dog-breed-identification/
-├── code.ipynb       # Jupyter Notebook with model training and evaluation
-├── README.md        # Project documentation
-├── data/            # Dataset folder
-│   ├── train/       # Training images
-│   └── test/        # Test images
-├── models/          # Saved model checkpoints
-└── outputs/         # Predicted results, plots, etc., plots, etc.
+
+├── code.ipynb         # Jupyter Notebook with model training and evaluation
+├── README.md          # Project documentation
+├── data/              # Dataset folder
+│   ├── train/         # Training images
+│   └── test/          # Test images
+├── models/            # Saved model checkpoints
+└── outputs/           # Predicted results, plots, etc., plots, etc.
 
 How to Run:
 1. Clone the repo:
