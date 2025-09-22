@@ -22,12 +22,12 @@ How to Run:-
       cd dog-breed-identificatio
 
     2.Install dependencies:
-    pip install -r requirements.txt
+      pip install -r requirements.txt
 
-    3. Open the notebook in Colab or locally:
+    3.Open the notebook in Colab or locally:
       Jupyter Notebook code.ipynb
 
-    4. Run the cells to train the model or test predictions
+    4.Run the cells to train the model or test predictions
 
 What the Project Does:-
 
