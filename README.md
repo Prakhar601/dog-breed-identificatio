@@ -1,6 +1,7 @@
 Dog-breed-identification
 
 Overview:
+
 This project is a deep learning model that identifies dog breeds from images. I built it using TensorFlow/Keras in a Jupyter Notebook. It’s mainly a Kaggle-style notebook project, focusing on training a CNN on a dataset of dog images and testing its predictions.
 
 Project Structure:
