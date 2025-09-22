@@ -5,11 +5,13 @@ This project is a deep learning model that identifies dog breeds from images. I 
 
 Project Structure:
 dog-breed-identification/
-├── code.ipynb       # Main notebook with model training and testing
-├── README.md        # This file
-├── data/            # Folder with train/test images
+├── code.ipynb       # Jupyter Notebook with model training and evaluation
+├── README.md        # Project documentation
+├── data/            # Dataset folder
+│   ├── train/       # Training images
+│   └── test/        # Test images
 ├── models/          # Saved model checkpoints
-└── outputs/         # Predicted results, plots, etc.
+└── outputs/         # Predicted results, plots, etc., plots, etc.
 
 How to Run:
 1. Clone the repo:
